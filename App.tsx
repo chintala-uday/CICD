@@ -35,6 +35,8 @@ function AppContent() {
       <Text>Hello CICD, after subscribing to hobby version</Text>
       <Text>new changes for deploy workflow</Text>
       <Text>Now trying with only iOS build, retriggering</Text>
+      <Text>iOS failed due to signing certificates</Text>
+      <Text>Now trying with only android build, retriggering</Text>
     </View>
   );
 }
