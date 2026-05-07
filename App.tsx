@@ -32,7 +32,7 @@ function AppContent() {
         templateFileName="App.tsx"
         safeAreaInsets={safeAreaInsets}
       />
-      <Text>Hello CICD</Text>
+      <Text>Hello CICD, after subscribing to hobby version</Text>
     </View>
   );
 }
