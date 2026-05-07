@@ -33,6 +33,7 @@ function AppContent() {
         safeAreaInsets={safeAreaInsets}
       />
       <Text>Hello CICD, after subscribing to hobby version</Text>
+      <Text>new changes for deploy workflow</Text>
     </View>
   );
 }
